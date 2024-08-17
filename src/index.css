@@ -4,6 +4,7 @@
 
 td {
     @apply px-10
+    py-5
 }
 
 body {
